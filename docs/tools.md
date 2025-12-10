@@ -52,7 +52,7 @@ I've these projects mostly for [back-end](https://en.wikipedia.org/wiki/Back_end
     I'm familiar w/ **Python** since high-school.
     
     I use Python frequently for most of my projects It's my main stack.
-    I master the concepts wich I applied on these projects [Cooloc](https://mathieuaudibert/projects/#cooloc), [BlockChains](https://mathieuaudibert/projects/#blockchain) and [TGW Reporting](https://mathieuaudibert/projects/#tgw-reporting).
+    I master the concepts wich I applied on these projects [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [BlockChains](https://mathieuaudibert.vercel.app/projects/#blockchain) and [TGW Reporting](https://mathieuaudibert.vercel.app/projects/#tgw-reporting).
 
     I also used Python for a variety of projects wich you can find [here](https://github.com/MathieuAudibert)
 
@@ -72,7 +72,7 @@ I've these projects mostly for [back-end](https://en.wikipedia.org/wiki/Back_end
 
     I'm familiar w/ **JavaScript** since my 1st year of post-secondary education.
     
-    I'm not using JS as much as Python & Java but I still used it for projects [front-end](https://en.wikipedia.org/wiki/Front-end_web_development) projects like : [DevOps](https://mathieuaudibert/projects/#devops) & [BankWerk](https://mathieuaudibert/projects/#bankwerk)
+    I'm not using JS as much as Python & Java but I still used it for projects [front-end](https://en.wikipedia.org/wiki/Front-end_web_development) projects like : [DevOps](https://mathieuaudibert.vercel.app/projects/#devops) & [BankWerk](https://mathieuaudibert.vercel.app/projects/#bankwerk)
 
 -   :fontawesome-brands-php:{ .lg .middle } __PHP/Symfony__
 
@@ -80,9 +80,9 @@ I've these projects mostly for [back-end](https://en.wikipedia.org/wiki/Back_end
 
     I'm familiar w/ **PHP** since my 2nd year of post-secondary education.
     
-    I was using PHP and Symfony on a daily basis when I was @ [CPAM94](https://lannuaire.service-public.gouv.fr/ile-de-france/val-de-marne/3ef62c8c-7157-4fd1-8547-ae9d21105082) wich I worked on [AAVA](https://mathieuaudibert/projects#aava).
+    I was using PHP and Symfony on a daily basis when I was @ [CPAM94](https://lannuaire.service-public.gouv.fr/ile-de-france/val-de-marne/3ef62c8c-7157-4fd1-8547-ae9d21105082) wich I worked on [AAVA](https://mathieuaudibert.vercel.app/projects#aava).
 
-    I used PHP for [Audiora](https://mathieuaudibert/projects/#audiora).
+    I used PHP for [Audiora](https://mathieuaudibert.vercel.app/projects/#audiora).
 
 -   :simple-gnubash:{ .lg .middle } __Bash__
 
@@ -116,11 +116,11 @@ Here is the diverse tools I'm using daily :
 
     I'm familiar with both plateform's CI-CD tools wich I use in most of my projects
 
-    I'm using GitHub for most of my personal/academical projects ([Cooloc](https://mathieuaudibert/projects/#cooloc), [BlockChain](https://mathieuaudibert/projects/#blockchain), [TGW Reporting](https://mathieuaudibert/projects/#tgw-reporting), etc...).
+    I'm using GitHub for most of my personal/academical projects ([Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [BlockChain](https://mathieuaudibert.vercel.app/projects/#blockchain), [TGW Reporting](https://mathieuaudibert.vercel.app/projects/#tgw-reporting), etc...).
 
-    I'm using/used GitLab daily in both my internships (w/ [AAVA](https://mathieuaudibert/projects/#aava)). 
+    I'm using/used GitLab daily in both my internships (w/ [AAVA](https://mathieuaudibert.vercel.app/projects/#aava)). 
     
-    I also used it for an academical project : [DevOps](https://mathieuaudibert/projects#devops)
+    I also used it for an academical project : [DevOps](https://mathieuaudibert.vercel.app/projects#devops)
 </div>
 
 ## Cloud
@@ -135,25 +135,25 @@ Here is my experiences with the big 3 [cloud providers](https://en.wikipedia.org
     
     **AWS** is the cloud provider I used the most.
 
-    I have a cloud practitionner badge and [TGW Reporting](https://mathieuaudibert/projects/#tgw-reporting) is based off of AWS.
+    I have a cloud practitionner badge and [TGW Reporting](https://mathieuaudibert.vercel.app/projects/#tgw-reporting) is based off of AWS.
 
 -   :fontawesome-brands-microsoft:{ .lg .middle } __Azure__
 
     ---
 
-    Azure is my least favourite cloud provider. I used it on [DevOps](https://mathieuaudibert/projects/#devops)
+    Azure is my least favourite cloud provider. I used it on [DevOps](https://mathieuaudibert.vercel.app/projects/#devops)
 
 -   :simple-googlecloud:{ .lg .middle } __GCP__
 
     ---
 
-    I'm currently learning a lot on **GCP** since I used it w/ firebase on a lot of my academical projects : [Cooloc](https://mathieuaudibert/projects/#cooloc), [Audiora](https://mathieuaudibert/projects/#audiora) & [BankWerk](https://mathieuaudibert/projects/#bankwerk).
+    I'm currently learning a lot on **GCP** since I used it w/ firebase on a lot of my academical projects : [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [Audiora](https://mathieuaudibert.vercel.app/projects/#audiora) & [BankWerk](https://mathieuaudibert.vercel.app/projects/#bankwerk).
 
     I'm also trying to get the [GCP Cloud engineer certification](https://cloud.google.com/learn/certification/cloud-engineer?hl=fr) wich will be usefull for my career.
 
     ---
 
-    I'm currently learning a lot on **GCP** since I used it w/ firebase on a lot of my academical projects : [Cooloc](https://mathieuaudibert/projects/#cooloc), [Audiora](https://mathieuaudibert/projects/#audiora) & [BankWerk](https://mathieuaudibert/projects/#bankwerk).
+    I'm currently learning a lot on **GCP** since I used it w/ firebase on a lot of my academical projects : [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [Audiora](https://mathieuaudibert.vercel.app/projects/#audiora) & [BankWerk](https://mathieuaudibert.vercel.app/projects/#bankwerk).
 
     I'm also trying to get the [GCP Cloud engineer certification](https://cloud.google.com/learn/certification/cloud-engineer?hl=fr) wich will be usefull for my career.
 </div>
@@ -172,7 +172,7 @@ Here are the main SGBD I use(d) w/ both [SQL](https://en.wikipedia.org/wiki/SQL)
 
     I used mostly PostgreSQL but I know Oracle & MySQL quite well.
 
-    Here are some projects where I used SQL : [DevOps](https://mathieuaudibert/projects/#devops), [Cooloc](https://mathieuaudibert/projects/#cooloc), [AAVA](https://mathieuaudibert/projects/#aava)
+    Here are some projects where I used SQL : [DevOps](https://mathieuaudibert.vercel.app/projects/#devops), [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [AAVA](https://mathieuaudibert.vercel.app/projects/#aava)
 
 -   :simple-mongodb:{ .lg .middle } __NoSQL__
 
@@ -180,5 +180,5 @@ Here are the main SGBD I use(d) w/ both [SQL](https://en.wikipedia.org/wiki/SQL)
 
     I'm also really familiar w/ NoSQL especially MongoDB wich I used during my internships.
 
-    Here is also projects where I used NoSQL : [Cooloc](https://mathieuaudibert/projects/#cooloc), [BankWerk](https://mathieuaudibert/projects#bankwerk) & [Audiora](https://mathieuaudibert/projects/#audiora).
+    Here is also projects where I used NoSQL : [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [BankWerk](https://mathieuaudibert.vercel.app/projects#bankwerk) & [Audiora](https://mathieuaudibert.vercel.app/projects/#audiora).
 </div>
