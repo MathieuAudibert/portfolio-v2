@@ -133,3 +133,43 @@ Objective: Build a banking platform
 
 - [Bankwerk.com](https://bankwerk.vercel.app/)
 - [GitHub :simple-github:](https://github.com/MathieuAudibert/Reactjs-B3)
+
+## AAVA 
+
+### :lucide-book-open: About 
+
+Design and development of a Symfony-based website aimed at supporting the monitoring and assistance of approximately 800,000 beneficiaries as part of the aid campaigns of the Mission Accompagnement Santé (MISAS), targeting insured individuals in vulnerable situations (chronic illnesses, pregnant women, elderly people, etc.). 
+
+I worked on the entire full-stack part and implemented a DevOps approach.
+
+![aava](images/aava.png)
+
+### :lucide-layers: Stack
+
+:simple-gitlab: :simple-symfony: :simple-postgresql:
+
+### :lucide-link: Links
+
+- Code owned by CPAM du Val de Marne :dizzy:
+
+## Audiora 
+
+### :lucide-book-open: About
+
+Audiora is a music-streaming platform developed by @MathieuAudibert & @ismaa2k as part of a PHP skills-validation project.
+
+- [x] Sign up / Log in
+- [x] Search for a track
+- [x] Listen to a track
+- [x] Like a track
+- [x] Have your own playlist
+
+![audiora](images/audiora.png)
+
+### :lucide-layers: Stack
+
+:simple-github: :simple-php: :simple-firebase:
+
+### :lucide-link: Links
+
+- [GitHub :simple-github:](https://github.com/MathieuAudibert/PHP-Renforcement)
