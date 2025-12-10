@@ -28,7 +28,7 @@ I made everything Open Source because that’s what development is all about: sh
 
 ### :lucide-layers: Stack
 
-:simple-github: :fontawesome-brands-python: :simple-react: :simple-postgresql: :simple-firebase: :simple-docker: :simple-githubactions: :simple-sonarqubecloud:
+:simple-github:{title="GitHub"} :fontawesome-brands-python:{title="Python"} :simple-react:{title="React"} :simple-postgresql:{title="PostgreSQL"} :simple-firebase:{title="Firebase"} :simple-docker:{title="Docker"} :simple-githubactions:{title="GitHub Actions"} :simple-sonarqubecloud:{title="SonarQube Cloud"}
 
 ### :lucide-link: Links
 
@@ -54,7 +54,7 @@ I learned how to :
 
 ### :lucide-layers: Stack
 
-:simple-github: :fontawesome-brands-python: :simple-docker: :simple-githubactions: :simple-sonarqubecloud:
+:simple-github:{title="GitHub"} :fontawesome-brands-python:{title="Python"} :simple-docker:{title="Docker"} :simple-githubactions:{title="GitHub Actions"} :simple-sonarqubecloud:{title="SonarQube Cloud"}
 
 ### :lucide-link: Links
 
@@ -77,7 +77,7 @@ Little Open-Source python script to report [transit-gateways](https://docs.aws.a
 
 ### :lucide-layers: Stack
 
-:simple-github: :fontawesome-brands-python: :fontawesome-brands-aws: :simple-githubactions:
+:simple-github:{title="GitHub"} :fontawesome-brands-python:{title="Python"} :fontawesome-brands-aws:{title="AWS"} :simple-githubactions:{title="GitHub Actions"}
 
 ### :lucide-link: Links
 
@@ -102,7 +102,7 @@ We used:
 
 ### :lucide-layers: Stack
 
-:simple-gitlab: :simple-nodedotjs: :simple-react: :simple-vite: :simple-mysql: :fontawesome-brands-microsoft: :simple-docker: :simple-ansible:
+:simple-gitlab:{title="GitLab"} :simple-nodedotjs:{title="Node.js"} :simple-react:{title="React"} :simple-vite:{title="Vite"} :simple-mysql:{title="MySQL"} :fontawesome-brands-microsoft:{title="Microsoft Azure"} :simple-docker:{title="Docker"} :simple-ansible:{title="Ansible"}
 
 ### :lucide-link: Links
 
@@ -127,7 +127,7 @@ Objective: Build a banking platform
 
 ### :lucide-layers: Stack
 
-:simple-github: :simple-nodedotjs: :simple-react: :simple-nextdotjs: :simple-firebase: :simple-vercel: :simple-githubactions: :simple-sonarqubecloud:
+:simple-github:{title="GitHub"} :simple-nodedotjs:{title="Node.js"} :simple-react:{title="React"} :simple-nextdotjs:{title="Next.js"} :simple-firebase:{title="Firebase"} :simple-vercel:{title="Vercel"} :simple-githubactions:{title="GitHub Actions"} :simple-sonarqubecloud:{title="SonarQube Cloud"}
 
 ### :lucide-link: Links
 
@@ -146,7 +146,7 @@ I worked on the entire full-stack part and implemented a DevOps approach.
 
 ### :lucide-layers: Stack
 
-:simple-gitlab: :simple-symfony: :simple-postgresql:
+:simple-gitlab:{title="GitLab"} :simple-symfony:{title="Symfony"} :simple-postgresql:{title="PostgreSQL"}
 
 ### :lucide-link: Links
 
@@ -168,7 +168,7 @@ Audiora is a music-streaming platform developed by @MathieuAudibert & @ismaa2k a
 
 ### :lucide-layers: Stack
 
-:simple-github: :simple-php: :simple-firebase:
+:simple-github:{title="GitHub"} :simple-php:{title="PHP"} :simple-firebase:{title="Firebase"}
 
 ### :lucide-link: Links
 
