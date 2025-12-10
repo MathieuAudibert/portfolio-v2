@@ -116,12 +116,12 @@ We used:
 
 Objective: Build a banking platform
 
-- [x] Create an account (/register)
-- [x] Log in (/login)
-- [x] View your balance (/dashboard)
-- [x] View cryptocurrency prices (/cryptos)
-- [x] Make transfers between two accounts (/transfer)
-- [x] Perform buy/sell operations (/buy or /transfer)
+- [x] Create an account (`/register`)
+- [x] Log in (`/login`)
+- [x] View your balance (`/dashboard`)
+- [x] View cryptocurrency prices (`/cryptos`)
+- [x] Make transfers between two accounts (`/transfer`)
+- [x] Perform buy/sell operations (`/buy` or `/transfer`)
 
 ![bankwerk](images/bankwerk.png)
 
