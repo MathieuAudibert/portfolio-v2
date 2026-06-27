@@ -2,32 +2,24 @@
 icon: lucide/user-round
 ---
 
-# My portfolio
+# 
 
-!!! Danger "Important"
-    This portfolio might **not** be *up-to-date*.
+I am a data-engineer apprentice @ Crédit Agricole Assurances & ESILV. Currently studiying as a first year of the Master of Engineering Computer Science and Data Science, I study a wide range of topics such as : 
 
-## :lucide-circle-star: Introduction
+- Data 
+- AI
+- Blockchain/Web3
+- Cloud computing
 
-*Welcome on my portfolio !* 
+Outside of school, I have wide-ranging interests including music, art, sports, technology and finance. 
 
-Here you will find the tools I used w/ some of the projects I participated in.
+### Content tree
 
-This portfolio's purpose is purely **technical**, I advise visiting my [Linkedin :fontawesome-brands-linkedin:](https://www.linkedin.com/in/mathieu-audibert/) for more informations.
+The portfolio is splitted this way : 
 
-!!! info
-    This portfolio is hosted on [Vercel :simple-vercel:](https://vercel.com).
-
----
-
-Explore the sections to get details on my technical skills and see how I can contribute to your projects.
-
-## :lucide-map: Plan 
-
-The plan of the portfolio is the following :
-
-| Page     | Description                                         | |
-| -------- | --------------------------------------------------- | ----- |
-| [Tools](tools.md) | The technologies and environnements I use regularly | :lucide-braces: |
-| [Projects](projects.md)| The projects I participated in | :lucide-folder-git-2: |
-| [Contact](contact.md) | Where you can contact me | :lucide-link:  |
+- **School career** : The projects I dev, what I studied...
+- **Work career** : The projects I participated in, who I worked for
+- **Personnal projects** : The projects I worked on outside of school and work
+- **Tools** : a cloud of the tools I use
+- **Upcomming** : the thesis
+- **Contact** : my links
