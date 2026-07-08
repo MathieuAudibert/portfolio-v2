@@ -282,8 +282,9 @@ toggle.name = "Switch to light mode"
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
 [project.theme.font]
-text = "Jetbrains Mono"
-code = "Fira Code"
+# Josefin Sans -- Lora
+text = "Lora"
+code = "Jetbrains Mono"
 
 # ----------------------------------------------------------------------------
 # You can configure your own logo to be shown in the header using the "logo"
