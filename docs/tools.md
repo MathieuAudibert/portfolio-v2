@@ -462,7 +462,6 @@ This is the tools I use/used :
 
 ### AI
 ---
-
 <div class="grid cards" markdown>
 
 -   :simple-googlegemini:{ .lg .middle } __Gemini (chat)__
@@ -518,6 +517,20 @@ This is the tools I use/used :
     I'm trying to run Deepseek locally since 2022 and its a really great model science-wise. It still struggles in writing and in code completion but it will get there someday ! Also i'm a big fan of how the Opensource and public knowledge the model is
     </details>
 
+-   :simple-opencode:{ .lg .middle } __Opencode & Nova 2 lite__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    I've been using Opencode and Nova 2 lite for a few months now and I'm really enjoying it. It's helped me with code generation, debugging, and understanding complex concepts. The interface is clean and intuitive, and the responses have been consistently accurate. Great tool for developers!
+    </details>
+
 </div>
+
 
 ---

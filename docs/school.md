@@ -3,37 +3,27 @@ icon: lucide/graduation-cap
 ---
 
 
-## Middle & High School 
+## Early Education
 
-My first computer science course goes as far as my middle school where I had a Scratch and Robotics oriented courses. 
+My journey in computer science began in middle school with Scratch and robotics courses. In high school, I focused on Python while studying graph theory, data structures, networking, and algorithms.
 
-I then went to high school where I pursued computer science (with Physics and Complementary mathematics) where I mostly developped in Python while seeing : 
-
-* Graph theory, 
-* Nodes and trees (binary search...)
-* Linear data structures (lists, stacks, queues) 
-* Networking, sql basis, classes
-* Complexity, 
-* Recursivity
-
-I then went completing the engineering bachelor "Developpement & Data" (3yrs, license equivalent) @ Efrei Panthéon Assas by obtaining the **RNCP37873** certification ([Cooloc](#cooloc)).
+Completed a 3-year "Development & Data" engineering bachelor’s degree at Efrei Panthéon Assas, earning the RNCP37873 certification ([Cooloc](#cooloc)).
 
 ## Efrei
 
-I studied begineer to in depth (technical) subjects : 
+Studied technical subjects including:
 
-- Java & Object Oriented programmation :fontawesome-brands-java: :simple-springboot:
-- JavaScript/NodeJS :simple-javascript: :simple-nodedotjs:
-- PHP :simple-php: :simple-symfony: :simple-composer:
-- Sql :fontawesome-solid-database:
-- DB management (mostly on MySQL) :simple-mysql: :simple-postgresql: :simple-mongodb:
-- UML :simple-uml:
-- WebDev (api, protocols...) :fontawesome-brands-chrome: 
-- Source Code Management :simple-git: :simple-github: :simple-gitlab:
-- Linux kernel :simple-linux: :simple-ubuntu: :simple-gnubash:
-- Frontend/Design :simple-figma: :simple-react:
-- DevOps & Clean Code :simple-sonarqubeforide: :simple-githubactions:
-- Cybersecurity :simple-owasp: :simple-bitwarden: :simple-redhat:
+- Java & OOP (Spring Boot)
+- JavaScript/Node.js
+- PHP (Symfony, Composer)
+- SQL & database management (MySQL, PostgreSQL, MongoDB)
+- UML
+- Web development (APIs, protocols)
+- Source control (Git, GitHub, GitLab)
+- Linux systems
+- Frontend design (Figma, React)
+- DevOps (SonarQube, GitHub Actions)
+- Cybersecurity (OWASP, Bitwarden)
 
 I also studied less technical subjects such as english, agility, project management...
 
@@ -135,22 +125,20 @@ BankWerk is a crypto-oriented banking platform built as a React deep-dive exerci
 
 ## ESILV
 
-Once I graduated Efrei Panthéon Assas, I got the Master of engineering "Computer Science and Data Science" @ ESILV where I am currently still studying. 
+Currently pursuing a Master of Engineering in Computer Science and Data Science at ESILV. Coursework includes:
 
-ESILV is really intensive course-wise, and I studied these subjects :
-
-- Python for data-engineering :simple-python: :simple-pandas: :simple-fastapi: :simple-flask:
-- Advanced networks :simple-cisco:
-- Advanced Databases (oracle) & NoSQL topics :fontawesome-solid-database: :simple-mongodb: :simple-neo4j: :simple-elasticsearch:
-- Containerization & Orchestration, DevOps :simple-kubernetes: :simple-docker: :simple-githubactions: :simple-jfrog: :simple-terraform: :simple-ansible:
-- Digital Twins & IoT :material-microsoft-azure:
-- Advanced Object Oriented Programmation :fontawesome-brands-java: :simple-springboot: 
-- Web Architecture :simple-rust: :simple-react: :simple-bun: :simple-typescript:
-- Cloud Native Fundamentals :fontawesome-brands-aws: :material-google-cloud: :material-microsoft-azure:
-- Blockchain programming & digital trust :simple-blockchaindotcom: :simple-ethereum: :simple-bitcoin: :simple-python:
-- Machine learning :simple-python: :simple-scikitlearn:
-- Data analysis :simple-python: :simple-polars: :simple-jupyter:
-- ETL :simple-python: :fontawesome-brands-aws: :simple-apacheairflow: :simple-apachekafka: :simple-grafana: :simple-apachespark: :simple-postgresql:
+- Python for data engineering (Pandas, FastAPI, Flask)
+- Advanced networks
+- Databases (Oracle, MongoDB, Neo4j, Elasticsearch)
+- Containerization & DevOps (Kubernetes, Docker, GitHub Actions, JFrog, Terraform, Ansible)
+- Digital Twins & IoT
+- Advanced OOP (Java, Spring Boot)
+- Web architecture (Rust, React, Bun, TypeScript)
+- Cloud platforms (AWS, Google Cloud, Azure)
+- Blockchain & digital trust
+- Machine learning (scikit-learn)
+- Data analysis (Polars, Jupyter)
+- ETL pipelines (Apache Airflow, Kafka, Grafana, Spark, PostgreSQL)
 
 At the same time we had English courses and a Scientific research paper to fill in the 2nd year (see upcomming section).
 
