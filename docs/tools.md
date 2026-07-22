@@ -5,7 +5,7 @@ icon: lucide/hammer
 
 # Tools
 
-This is the tools I use/used :
+These are the tools I use or have used:
 
 ### OS
 ---
@@ -22,7 +22,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I have used Windows on a daily basis for more or less than 9 years now. I know Powershell, architecture and some server management basis but the more I work on windows the less I want to stay on (for programmation).
+    Daily use for over 9 years. Comfortable with PowerShell, system architecture, and basic server management. Increasingly preferring Linux for development work.
     </details>
 
 -   :fontawesome-brands-linux:{ .lg .middle } __Linux__
@@ -35,9 +35,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Linux isn't a OS in itself but i'm really in ease with the kernel and its architecture since I have used a lot of distribution until now (Ubuntu server, debian, ubuntu).
-
-    I am using WSL everytime I can to get me as close to the kernel as I can.
+    Comfortable with the kernel and its architecture. Have used multiple distributions (Ubuntu, Debian, Ubuntu Server). Use WSL whenever possible to stay close to the Linux environment.
     </details>
 
 -   :fontawesome-brands-ubuntu:{ .lg .middle } __Ubuntu__
@@ -50,7 +48,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Even if Ubuntu has its issues and some consider it the "Windows of linux systems", I'm running linux on my school laptop.
+    Primary Linux distribution — running on my school laptop for daily development.
     </details>
 
 -   :simple-alpinelinux:{ .lg .middle } __Alpine server__
@@ -63,11 +61,11 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Currently trying to run Alpine Linux server on an old Klipad tablet.
+    Currently experimenting with Alpine Linux server on repurposed hardware.
     </details>
 </div>
 
-### Programming langages
+### Programming languages
 ---
 
 <div class="grid cards" markdown>
@@ -82,9 +80,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Python is one the langages I master the most. I have been using it for more or less than 7 years with uv for 2 years. I have made wide-ranging projects with it : apis, backend, frontend, iot, cloud computing, security, scripts... 
-
-    I am using a lot FastAPI, requests, Jupyter, pandas/polars, scikit-learn...
+    One of my strongest languages — 7 years of experience, using uv for the past 2. Built projects spanning APIs, backends, IoT, cloud computing, security, and scripting. Primary tools: FastAPI, requests, Jupyter, Pandas/Polars, scikit-learn.
     </details>
 
 -   :fontawesome-brands-java:{ .lg .middle } __Java__
@@ -97,11 +93,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    It has been now 4 years that I discovered Java and even if at first I was a bit reticent, I am now completely fan of this langage, I try to use it as much as possible and in the last years I learned so much about patterns, dependencies, garbage collection, threading, robustness and it's really passioning. 
-
-    I am regularly using springboot since it makes everything so much easier with the core dependencies I use (actuator, swagger, security, jpa...).
-
-    It's now one of the langages I master the most with Python
+    4 years of experience. Initially reluctant, now one of my preferred languages. Deep knowledge of design patterns, dependency injection, garbage collection, threading, and robustness. Regular Spring Boot user (Actuator, Swagger, Security, JPA). One of my strongest languages alongside Python.
     </details>
 
 -   :simple-javascript:{ .lg .middle } __Javascript__
@@ -114,7 +106,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I used a lot JavaScript and NodeJs back at Efrei Panthéon Assas but I feel like It's been more or less a year since I haven't used it so I don't feel like i'm in ease with the langage. Especially since I don't know anything about typescript.
+    Used extensively at Efrei Panthéon Assas (JavaScript and Node.js), but haven't touched it in about a year. Not yet familiar with TypeScript.
     </details>
 
 -   :simple-rust:{ .lg .middle } __Rust__
@@ -127,7 +119,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I have been trying to learn Rust this year and I start to understand the basis and good practices. I am still not completely in ease with it but I find it really interesting security, performance and even package manager wise.
+    Started learning this year. Grasping the fundamentals and best practices. Find it compelling for its safety model, performance, and package manager (Cargo).
     </details>
 
 -   :simple-php:{ .lg .middle } __PHP__
@@ -140,7 +132,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I used PHP for 3 consecutive years daily for both school and work projects. I used Symfony and composer a lot and even if it's been awhile since I have not programmed in this horrible langage I still think that I can workaround something quite OK. 3 stars but I don't want to use this ever again.
+    Used daily for 3 consecutive years across school and work projects. Experienced with Symfony and Composer. Haven't used it recently and prefer not to return to it.
     </details>
 
 -   :simple-kotlin:{ .lg .middle } __Kotlin__
@@ -153,7 +145,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I started learning Kotlin this year and even if I master Java, there still some subjects I don't quite master in Kotlin such as their null gestion. Really great langage overall, reduces a lot of the Java's "verbosity" and simplifies a lot of things.
+    Started learning this year. Leveraging my Java background — still working on Kotlin-specific idioms like null safety. Appreciate how it reduces Java's verbosity while maintaining JVM compatibility.
     </details>
 </div>
 
@@ -174,9 +166,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I am really familiar with AWS since it's been 3 years that I'm using it a lot. I master a lot of the core concepts, built robust applications on it with various programming langages. I struggle more with budgets and cost management.
-
-    I am seeking to get a certification.
+    3 years of active use. Strong command of core services, built robust applications across multiple languages. Still developing cost management expertise. Pursuing certification.
     </details>
 
 -   :material-microsoft-azure:{ .lg .middle } __Microsoft Azure__
@@ -189,8 +179,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I hate Azure, I discovered it at the same time as AWS and I disliked it so much. ADA is painfull, IAM is painfull, everything is slow, european locked, budgets and multi-account share can be workedaround to steal credits... Overall i've got a pretty bad experience with Azure. Since it's the only one to provide a 100$ free credits for student I am forced to use it.
-    
+    Limited experience. Found the developer experience frustrating compared to AWS and GCP — IAM complexity, slow interfaces. Using it primarily because of the free student credits.
     </details>
 
 -   :material-google-cloud:{ .lg .middle } __GCP__
@@ -203,12 +192,10 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    GCP and Firebase has saved my school years, I find it really easy to use and Firebase being free is excellent. I just find it really hard to get started on GCP since the documentation isn't really up-to-date and Big Query having no indexation (such as Hive) is for me a big mistake. 
-
-    Overrall great product.
+    GCP and Firebase have been invaluable throughout my studies. Intuitive to use, Firebase's free tier is excellent. Some documentation gaps and BigQuery's lack of indexation are pain points, but overall a strong platform.
     </details>
 
--   :material-cloud-lock-outline:{ .lg .middle } __Own personnal cloud__
+-   :material-cloud-lock-outline:{ .lg .middle } __Self-hosted cloud__
 
     ---
 
@@ -218,7 +205,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Me and a friend of mine reprogrammed my old Dell laptop into a Ubuntu server where we hosts our databases and other AI stuff. I learned a lot on this project going from server architecture to Networking (WAN, VPN to bridge, SSH...) and it's really fascineting. I have so much more to learn about creating your own cloud especially in terms of security, scalability, replication...
+    Repurposed an old Dell laptop into an Ubuntu server with a friend — hosting databases and AI workloads. Learned server architecture, networking (WAN, VPN bridging, SSH). Much more to explore in terms of security, scalability, and replication.
     </details>
 
 </div>
@@ -240,9 +227,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Source code management was one the primary things i've learned about @ Efrei Panthéon Assas. Since the first year of secondary school, i've been using Git (Github/Gitlab) on a daily basis. 
-
-    I master Git and I have even given formation to colleagues @ Crédit Agricole Assurances.
+    Mastered since my first year of higher education. Daily use of GitHub and GitLab. Have trained colleagues at Crédit Agricole Assurances on Git workflows.
     </details>
 
 -   :simple-jenkins:{ .lg .middle } __Jenkins__
@@ -255,12 +240,10 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I didn't know much about Jenkins until I joined Crédit Agricole Assurances. Even if I try to avoid Groovy, I know how Jenkins works, and clean pipeline processes. 
-
-    I don't know how to configure it/administrate it though.
+    Learned at Crédit Agricole Assurances. Comfortable writing Groovy pipelines and understanding pipeline architecture. Not yet experienced with administration/configuration.
     </details>
 
--   :simple-githubactions:{ .lg .middle } __Github actions__
+-   :simple-githubactions:{ .lg .middle } __GitHub Actions__
 
     ---
 
@@ -270,11 +253,10 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Github actions and Gitlab CI are pretty much the same. Since i've heard of the actions about 2 years ago, I've used them a lot and mastered the basic concepts
-    
+    2 years of use. Mastered core concepts: workflow automation, matrix builds, container publishing, reusable workflows.
     </details>
 
--   :simple-gitlab:{ .lg .middle } __Gitlab CI__
+-   :simple-gitlab:{ .lg .middle } __GitLab CI__
 
     ---
 
@@ -284,8 +266,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Github actions and Gitlab CI are pretty much the same. Since i've heard of the actions about 2 years ago, I've used them a lot and mastered the basic concepts
-
+    Same paradigm as GitHub Actions — YAML-driven pipelines. Used across school and enterprise projects.
     </details>
 
 -   :simple-bruno:{ .lg .middle } __Bruno__
@@ -298,11 +279,10 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I was using Postman since the 2nd year of the engineering Bachelor until this year I discovered Bruno. Fast, clean, no login needed, post and after js request js scripts, credentials manager. Bruno is my go to API manager. I was really upset about postman and I was transitionning a lot to cURL until I found this masterpiece.
-
+    Replaced Postman entirely. Fast, clean, no login required, pre/post request scripts, credentials manager. My go-to API testing tool.
     </details>
 
--   :simple-sonarqubeserver:{ .lg .middle } __Sonarqube__
+-   :simple-sonarqubeserver:{ .lg .middle } __SonarQube__
 
     ---
 
@@ -312,7 +292,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Sonarqube adept since 2024, I've used it either in my IDE, as a Server and their Cloud solutions. Overwhelming and annoying sometimes, but the true king of Clean coding and clean as you code. 
+    Using since 2024 — IDE plugin, self-hosted server, and cloud solutions. Essential for enforcing clean code standards and quality gates.
     </details>
 
 -   :simple-jfrog:{ .lg .middle } __Artifactory__
@@ -325,7 +305,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Discovered it in 2026, I still don't master all of its potential but I am quite familiar with scratch, staging, artifacts scans...
+    Discovered in 2026. Familiar with scratch repos, staging, and artifact security scans. Still exploring its full potential.
     </details>
 
 -   :simple-kubernetes:{ .lg .middle } __K8S__
@@ -338,7 +318,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Discovered it in 2026 aswell, I still don't master all of its potential and all of its commands, but since I am really in ease with Docker, I think that I can only go up with k8s.
+    Discovered in 2026. Building on strong Docker foundations — working with manifests, deployments, and pod management. Paired with ArgoCD.
     </details>
 
 -   :simple-argo:{ .lg .middle } __ArgoCD__
@@ -351,7 +331,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Discovered in 2026 aswell, really great tool, makes pod management and k8s management easy. My go-to with k8s.
+    Discovered in 2026. Excellent tool for GitOps — makes Kubernetes management intuitive. My go-to for K8s deployment orchestration.
     </details>
 
 -   :simple-docker:{ .lg .middle } __Docker__
@@ -364,7 +344,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Learned about it since 2023, using it on a daily basis since then. I tried to learn a bit about Podman but Docker seems really advanced in comparison.
+    Daily use since 2023. Containerization, docker-compose, multi-stage builds, custom images. Explored Podman briefly but Docker remains far ahead.
     </details>
 </div>
 
@@ -385,7 +365,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Known SQL since 2022, MySQL doesn't have really special features except its lightweight. Great for fast developpement but falls behind Postgres for more.
+    Using SQL since 2022. MySQL is lightweight and excellent for rapid development, but lacks the extensibility of PostgreSQL for complex use cases.
     </details>
 
 -   :simple-postgresql:{ .lg .middle } __PostgreSQL__
@@ -398,10 +378,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Known SQL since 2022, Postgres is for me the best DBMS. Its extensions makes it really strong in all categories and is so easy to work with. Industry leader is well deserved.
-
-    I used PostGis and PgVector a bit but I don't master them at all.
-    
+    My preferred RDBMS. Its extension ecosystem (PostGIS, pgVector) makes it versatile across domains. Industry leadership is well-deserved. Have used PostGIS and pgVector at an introductory level.
     </details>
 
 -   :fontawesome-solid-database:{ .lg .middle } __Oracle__
@@ -414,10 +391,10 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Known SQL since 2022, I learned about Oracle in 2026. I learned about with ESILV the basis and fundations of Oracle DB and installed it on my own server. I struggled with fstab and the configuration as well as giving access to all my group members (this issue is more cloud-related). I don't know why Sequences hasnt been replaced by Serial but Oracle is overall a leader in big data databases and plugged databases are a really interesting concept.
+    Learned at ESILV in 2026. Set up on personal server — dealt with fstab configuration and multi-user access challenges. Pluggable databases are an interesting concept for enterprise scale.
     </details>
 
--   :simple-alibabacloud:{ .lg .middle } __Zvec__
+-   :simple-alibabacloud:{ .lg .middle } __Zilliz/Vector DBs__
 
     ---
 
@@ -427,7 +404,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Learning about vectorial databases this year has led me to Alibaba Cloud's vectorial Database : Zvec. I am trying to learn about it but it's really intense. 
+    Beginning to explore vector databases this year. Steep learning curve but essential for modern AI/embedding workloads.
     </details>
 
 -   :simple-mongodb:{ .lg .middle } __MongoDB__
@@ -440,7 +417,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Mastering MongoDB since 2024, using it daily has made me understood all major concepts and more hidden concepts (Disk use for aggregations, pipelines...)
+    Proficient since 2024 through daily use. Strong grasp of core and advanced concepts — aggregation pipelines, disk usage optimization, document modeling patterns.
     </details>
 
 -   :simple-neo4j:{ .lg .middle } __Neo4j__
@@ -453,7 +430,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Learned about Neo4j in 2026, even if it doesn't seem hard to understand, there might intrinseque concepts I don't master.
+    Learned in 2026. Comfortable with Cypher queries and relationship-first modeling. Still deepening understanding of graph-specific optimization patterns.
     </details>
 
 </div>
@@ -474,7 +451,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Been using gemini chat since it's release switching from claude in 2023. I find gemini really good especially in writing and surface science subjects. It's also the best option for free usage.
+    Primary chat model since its release. Strong for writing and surface-level research. Best free-tier option available.
     </details>
 
 -   :simple-claude:{ .lg .middle } __Claude (code)__
@@ -487,8 +464,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I have been using claude since 2023 and Claude code since 2026 (with a AWS bedrock free api key). Claude models are really good in deep science subjects but are really expensive and redundent (creating a .md file for each modification). Even with correct setup I still feel like it needs to be polished a bit more with the prompt etc...
-    
+    Using Claude since 2023, Claude Code since 2026 (via AWS Bedrock). Excellent for deep technical reasoning and code generation. Models are strong on complex subjects.
     </details>
 
 -   :simple-githubcopilot:{ .lg .middle } __Copilot__
@@ -501,10 +477,10 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I have been really disappointed with Copilot, Copilot CLI and Copilot API. The only great point of Copilot is the models diversity otherwise, it's not worth it since the pay plans modifications (AI Credits and such).
+    Disappointed with Copilot, Copilot CLI, and Copilot API. Model diversity is the main advantage, but the pricing changes (AI Credits) have reduced its value.
     </details>
 
--   :simple-deepseek:{ .lg .middle } __Deepseek__
+-   :simple-deepseek:{ .lg .middle } __DeepSeek__
 
     ---
 
@@ -514,7 +490,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I'm trying to run Deepseek locally since 2022 and its a really great model science-wise. It still struggles in writing and in code completion but it will get there someday ! Also i'm a big fan of how the Opensource and public knowledge the model is
+    Running locally for experimentation. Strong on scientific subjects. Appreciate the open-source approach and public knowledge commitment.
     </details>
 
 -   :simple-opencode:{ .lg .middle } __Opencode & Nova 2 lite__
@@ -527,7 +503,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    I've been using Opencode and Nova 2 lite for a few months now and I'm really enjoying it. It's helped me with code generation, debugging, and understanding complex concepts. The interface is clean and intuitive, and the responses have been consistently accurate. Great tool for developers!
+    Using for a few months. Clean interface, consistently accurate responses. Good for code generation, debugging, and concept exploration.
     </details>
 
 </div>

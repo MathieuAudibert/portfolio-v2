@@ -4,22 +4,22 @@ icon: lucide/user-round
 
 # 
 
-I am a data-engineer apprentice @ Crédit Agricole Assurances & ESILV. Currently studiying as a first year of the Master of Engineering Computer Science and Data Science, I study a wide range of topics such as : 
+I am a data engineer apprentice at Crédit Agricole Assurances & ESILV. Currently in my first year of the Master of Engineering in Computer Science and Data Science, I study a wide range of topics:
 
-- Data 
-- AI
-- Blockchain/Web3
-- Cloud computing
+- Data Engineering
+- Artificial Intelligence
+- Blockchain / Web3
+- Cloud Computing
 
-Outside of school, I have wide-ranging interests including music, art, sports, technology and finance. 
+Outside of school, I have broad interests including music, art, sports, technology, and finance.
 
 ### Content tree
 
-The portfolio is splitted this way : 
+The portfolio is structured as follows:
 
-- **School career** : The projects I dev, what I studied...
-- **Work career** : The projects I participated in, who I worked for
-- **Personnal projects** : The projects I worked on outside of school and work
-- **Tools** : a cloud of the tools I use
-- **Upcomming** : the thesis
-- **Contact** : my links
+- **School** — Projects developed and subjects studied
+- **Work** — Professional experience and contributions
+- **Personal projects** — Independent engineering work
+- **Tools** — Languages, platforms, and tools I use
+- **Upcoming** — Thesis and research
+- **Contact** — Links and email

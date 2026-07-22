@@ -27,7 +27,7 @@
     
     
       
-        <title>Local Machine Learning flow - Mathieu A.</title>
+        <title>Local Machine Learning Flow - Mathieu A.</title>
       
     
     
@@ -118,7 +118,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Local Machine Learning flow
+              Local Machine Learning Flow
             
           </span>
         </div>
@@ -463,57 +463,58 @@
                 
                   
 
-<h1 id="local-machine-learning-flow">Local Machine Learning flow</h1>
-<p>Local-ml-flow is a home project, combining the technologies and concept I want to improve in. It's a local MLOps ecosystem designed to automate machine learning lifecycle through local cloud computing (LocalStack) and a Github actions workflow. </p>
-<p>The README is detailled and explains through mermaid schemas, wiki links and LaTeX the project's runtime. There is also a "Future" chapter where I explain what I would like to implement/modify on the project. </p>
-<p>Links : 
-• Github : https://github.com/MathieuAudibert/local-ml-flow
-• Github package : https://github.com/MathieuAudibert/local-ml-flow/pkgs/container/local-ml-flow</p>
+<h1 id="local-machine-learning-flow">Local Machine Learning Flow</h1>
+<p>Local-ml-flow is a home project combining technologies and concepts I want to deepen. It's a local MLOps ecosystem designed to automate the machine learning lifecycle through local cloud computing (LocalStack) and a GitHub Actions workflow.</p>
+<p>The README is detailed and explains through Mermaid schemas, wiki links, and LaTeX the project's runtime. There is also a "Future" chapter outlining planned improvements and modifications.</p>
+<p>Links:
+• GitHub: https://github.com/MathieuAudibert/local-ml-flow
+• GitHub package: https://github.com/MathieuAudibert/local-ml-flow/pkgs/container/local-ml-flow</p>
 <h1 id="bankwerk">BankWerk</h1>
-<p>Online crypto-oriented bank, Bankwerk is a Node/NextJS project made at school.
-I managed the back-end/Google Cloud/Firebase infrastructure and the crypto-fetching API (cryptos https://coinmarketcap.com/api/)</p>
-<h1 id="eco-pulse">Eco-pulse</h1>
-<p>ELT pipeline to ingest global carbon emissions
-Objectives</p>
-<p>This project builds a production-grade ELT (Extract, Load, Transform) pipeline that ingests global carbon emission datasets from Kaggle. It utilizes Docker and Airflow for orchestration, with Python handling the data logic. A unique security feature is the integration of Aiven for Valkey as a centralized, high-speed configuration store to manage environment variables and API keys dynamically, ensuring that sensitive credentials never reside in the local codebase.
-Technical stack</p>
-<pre><code>Python
-Docker
-Airflow
-Aiven for Valkey
-Cloud
-    Backblaze B2 (for dataset object storage)
-    GCP (for Postgres analytics db)
-Kaggle API
-</code></pre>
+<p>Crypto-oriented online bank. BankWerk is a Node/Next.js project made at school.
+I managed the back-end/Google Cloud/Firebase infrastructure and the crypto-fetching API (CoinMarketCap).</p>
+<h1 id="eco-pulse">Eco-Pulse</h1>
+<p>ELT pipeline to ingest global carbon emissions.</p>
+<p>This project builds a production-grade ELT (Extract, Load, Transform) pipeline that ingests global carbon emission datasets from Kaggle. It utilizes Docker and Airflow for orchestration, with Python handling the data logic. A key feature is the integration of Aiven for Valkey as a centralized, high-speed configuration store to manage environment variables and API keys dynamically — sensitive credentials never reside in the local codebase.</p>
+<p><strong>Technical stack:</strong></p>
+<ul>
+<li>Python</li>
+<li>Docker</li>
+<li>Airflow</li>
+<li>Aiven for Valkey</li>
+<li>Cloud<ul>
+<li>Backblaze B2 (dataset object storage)</li>
+<li>GCP (PostgreSQL analytics database)</li>
+</ul>
+</li>
+<li>Kaggle API</li>
+</ul>
 <h1 id="leboncours">Leboncours</h1>
-<p>Leboncours</p>
-<p>A Single Page Application (SPA) where users can sign up as Teachers or Students. Teachers offer courses with availability slots, and students can browse and book sessions. The platform also includes an admin role, a messaging system, and a dashboard with charts.
-Tech Stack
-Backend</p>
-<pre><code>Language: Rust (Edition 2024)
-Framework: Axum 0.7
-Async Runtime: Tokio
-ORM: SeaORM 1.1 (PostgreSQL via sqlx)
-API Docs: Utoipa + Swagger UI
-Auth: Argon2 (password hashing) + JWT (jsonwebtoken)
-Validation: validator
-CORS: tower-http
-</code></pre>
-<p>Database</p>
-<pre><code>System: PostgreSQL
-Schema management: Raw SQL (db/create_table.sql)
-</code></pre>
-<p>Frontend</p>
-<pre><code>Framework: React 19 (Create React App)
-Language: JavaScript (JSX)
-Routing: react-router-dom 7
-Data Grid: AG Grid React 35
-Charts: Recharts
-Icons: Lucide React, React Icons
-HTTP Client: Native fetch (custom wrapper in src/api.js)
-Auth State: React Context (AuthContext) with sessionStorage
-</code></pre>
+<p>A Single Page Application (SPA) where users sign up as Teachers or Students. Teachers offer courses with availability slots, and students browse and book sessions. The platform includes an admin role, a messaging system, and a dashboard with charts.</p>
+<p><strong>Backend:</strong></p>
+<ul>
+<li>Language: Rust (Edition 2024)</li>
+<li>Framework: Axum 0.7</li>
+<li>Async Runtime: Tokio</li>
+<li>ORM: SeaORM 1.1 (PostgreSQL via sqlx)</li>
+<li>API Docs: Utoipa + Swagger UI</li>
+<li>Auth: Argon2 (password hashing) + JWT</li>
+<li>CORS: tower-http</li>
+</ul>
+<p><strong>Database:</strong></p>
+<ul>
+<li>System: PostgreSQL</li>
+<li>Schema management: Raw SQL (db/create_table.sql)</li>
+</ul>
+<p><strong>Frontend:</strong></p>
+<ul>
+<li>Framework: React 19</li>
+<li>Language: JavaScript (JSX)</li>
+<li>Routing: react-router-dom 7</li>
+<li>Data Grid: AG Grid React 35</li>
+<li>Charts: Recharts</li>
+<li>Icons: Lucide React, React Icons</li>
+<li>Auth State: React Context with sessionStorage</li>
+</ul>
 
 
 

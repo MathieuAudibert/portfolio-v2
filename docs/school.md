@@ -7,7 +7,7 @@ icon: lucide/graduation-cap
 
 My journey in computer science began in middle school with Scratch and robotics courses. In high school, I focused on Python while studying graph theory, data structures, networking, and algorithms.
 
-Completed a 3-year "Development & Data" engineering bachelor’s degree at Efrei Panthéon Assas, earning the RNCP37873 certification ([Cooloc](#cooloc)).
+Completed a 3-year "Development & Data" engineering bachelor's degree at Efrei Panthéon Assas, earning the RNCP37873 certification ([Cooloc](#cooloc)).
 
 ## Efrei
 
@@ -25,7 +25,7 @@ Studied technical subjects including:
 - DevOps (SonarQube, GitHub Actions)
 - Cybersecurity (OWASP, Bitwarden)
 
-I also studied less technical subjects such as english, agility, project management...
+Alongside these: English, agile methodology, and project management.
 
 ### Cooloc
   
@@ -35,7 +35,7 @@ Cooloc is a shared-housing management platform built to simplify colocation life
   
 ![Cooloc frontpage](images/EFREI/cooloc.png)
 
-The point of the certification was to go through a complete conception and developpement of a web-application. From design, to technical choices, code implementation and security, the complete documentation can be found in the `backup/` directory
+The certification required a complete conception and development lifecycle of a web application — from design through technical choices, code implementation, and security. The full documentation can be found in the `backup/` directory.
 
 ---
  
@@ -82,7 +82,7 @@ The point of the certification was to go through a complete conception and devel
   
 #### :lucide-library: About
  
-BankWerk is a crypto-oriented banking platform built as a React deep-dive exercise. The goal was to practice state management, routing, and component architecture while building a realistic banking UI with live cryptocurrency price tracking.
+BankWerk is a crypto-oriented banking platform built as a React deep-dive exercise. The goal was to practise state management, routing, and component architecture while building a realistic banking UI with live cryptocurrency price tracking.
  
 ![Bankwerk landingpage](images/EFREI/bankwerk.png)
  
@@ -140,14 +140,14 @@ Currently pursuing a Master of Engineering in Computer Science and Data Science 
 - Data analysis (Polars, Jupyter)
 - ETL pipelines (Apache Airflow, Kafka, Grafana, Spark, PostgreSQL)
 
-At the same time we had English courses and a Scientific research paper to fill in the 2nd year (see upcomming section).
+Additionally: English courses and a scientific research paper in the 2nd year (see Upcoming section).
 
 ### Leboncours
   
 #### :lucide-library: About
  
-Leboncours is a **Single Page Application** that bridges the gap between casual learning and professional tutoring. Users sign up as **Teachers** or **Students**: teachers set their availability and offer courses, students browse and book sessions. The platform also features an **Admin** role, an integrated **messaging system**, and a **dashboard with charts**.
- 
+**Leboncours** is a Single Page Application that bridges casual learning and professional tutoring. Users sign up as **Teachers** or **Students**: teachers set their availability and offer courses, students browse and book sessions. The platform features an **Admin** role, an integrated **messaging system**, and a **dashboard with charts**.
+
 It supports quick, one-off bookings for video call sessions on any skill — from code review to guitar tuning.
  
 ![leboncours landing](images/ESILV/leboncours-landing.png)
@@ -210,15 +210,12 @@ Full REST CRUD on: `auth` · `users` · `courses` · `availabilities` · `event-
 #### :lucide-library: About
  
 **Gideon** is a military topology interactive map powered by a complete ETL + ELT + streaming pipeline. It ingests two open GeoJSON datasets from the [Humanitarian Data Exchange](https://data.humdata.org) — *Ukraine Roads* and *Ukraine Points of Interest* — into PostGIS, builds analytics tables, replays events through Kafka, and renders everything in a live Grafana dashboard.
- 
+
 > **Note:** This project's purpose is solely to map the important geographic points of Ukraine.
  
 ![Gideon landing](images/ESILV/gideon-pres.png)
 
 ![Gideon architecture](images/ESILV/workflow.png)
- 
-![[gideon-dashboard-placeholder.png]]
-> *[PLACEHOLDER — add a screenshot of the Grafana live dashboard here]*
  
 ---
  
@@ -244,6 +241,7 @@ The pipeline follows a complete **ETL → ELT → Streaming** flow:
 3. **Transform** — SQL analytics tables built on top of raw data
 4. **Stream** — events replayed through Kafka topics
 5. **Visualise** — live Grafana dashboard served at `localhost:3000`
+
 Main orchestration DAG: `src/orchestration/dags/raw_data_ingestion.py`
  
 ---
