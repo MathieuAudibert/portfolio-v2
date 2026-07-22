@@ -53,7 +53,7 @@ This is the tools I use/used :
     Even if Ubuntu has its issues and some consider it the "Windows of linux systems", I'm running linux on my school laptop.
     </details>
 
--   :fontawesome-brands-debian:{ .lg .middle } __Debian server__
+-   :simple-alpinelinux:{ .lg .middle } __Alpine server__
 
     ---
 
@@ -63,7 +63,7 @@ This is the tools I use/used :
 
     <details>
     <summary>Details</summary>
-    Currently trying to run Debian server on an old Klipad tablet.
+    Currently trying to run Alpine Linux server on an old Klipad tablet.
     </details>
 </div>
 
