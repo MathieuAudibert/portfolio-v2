@@ -4,4 +4,8 @@ icon: lucide/link
 
 # Contact
 
-You can contact me through [Linkedin :fontawesome-brands-linkedin:](https://www.linkedin.com/in/mathieu-audibert/) or per [email :simple-gmail:](mailto:mathieu.audibert27@gmail.com).
+- :fontawesome-brands-linkedin: [LinkedIn](https://www.linkedin.com/in/mathieu-audibert/)
+- :simple-gmail: [School email](mailto:mathieu.audibert@edu.devinci.fr)
+- :simple-protonmail: [Personal email](mailto:mathieu.audibert@proton.me)
+- :simple-github: [GitHub](https://www.github.com/MathieuAudibert)
+- :simple-gitlab: [GitLab](https://www.gitlab.com/MathieuAudibert)

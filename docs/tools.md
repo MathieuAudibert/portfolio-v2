@@ -1,20 +1,14 @@
 ---
-icon: lucide/braces
+icon: lucide/hammer
 ---
+
 
 # Tools
 
-Here is the tools section.
+These are the tools I use or have used:
 
-You will find here a glimpse of the technos, work environnments and softwares I use.
-
-This section reflects the skills I acquired throughtout my experiences either academical, professionnal or personal. This also indicate my ease with each of them.
-
+### OS
 ---
-
-## OS
-
-Here are the [operating systems](https://en.wikipedia.org/wiki/Operating_system) I use(d) :
 
 <div class="grid cards" markdown>
 
@@ -22,163 +16,497 @@ Here are the [operating systems](https://en.wikipedia.org/wiki/Operating_system)
 
     ---
 
-    I'm using Windows on a daily basis since I've been using a computer.
-    I'm really familiar with the file structure and the architecture.
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
 
-    I know the basics of Powershell.
+    <details>
+    <summary>Details</summary>
+    Daily use for over 9 years. Comfortable with PowerShell, system architecture, and basic server management. Increasingly preferring Linux for development work.
+    </details>
 
--   :fontawesome-brands-ubuntu:{ .lg .middle } __Ubuntu/Linux__
+-   :fontawesome-brands-linux:{ .lg .middle } __Linux__
 
     ---
 
-    I'm using linux commands on a daily basis.
-    I'm familiar with the file structure since I've worked with linux servers ([CPAM & CAAS](https://www.linkedin.com/in/mathieu-audibert/)).
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
 
-    I'm using Ubuntu shell w/ WSL on most of the projects I participate in.
-    I master bases with VIM.
+    <details>
+    <summary>Details</summary>
+    Comfortable with the kernel and its architecture. Have used multiple distributions (Ubuntu, Debian, Ubuntu Server). Use WSL whenever possible to stay close to the Linux environment.
+    </details>
+
+-   :fontawesome-brands-ubuntu:{ .lg .middle } __Ubuntu__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } 
+
+    <details>
+    <summary>Details</summary>
+    Primary Linux distribution — running on my school laptop for daily development.
+    </details>
+
+-   :simple-alpinelinux:{ .lg .middle } __Alpine server__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Currently experimenting with Alpine Linux server on repurposed hardware.
+    </details>
 </div>
 
-## Programming languages
-
-This is the list of the [programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages) I use(d) through my projects.
-I've these projects mostly for [back-end](https://en.wikipedia.org/wiki/Back_end) developement :
+### Programming languages
+---
 
 <div class="grid cards" markdown>
 
--   :fontawesome-brands-python:{ .lg .middle } __Python__
+-   :simple-python:{ .lg .middle } __Python__
 
     ---
 
-    I'm familiar w/ **Python** since high-school.
+    Ability : 
     
-    I use Python frequently for most of my projects It's my main stack.
-    I master the concepts wich I applied on these projects [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [BlockChains](https://mathieuaudibert.vercel.app/projects/#blockchain) and [TGW Reporting](https://mathieuaudibert.vercel.app/projects/#tgw-reporting).
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
 
-    I also used Python for a variety of projects wich you can find [here](https://github.com/MathieuAudibert)
+    <details>
+    <summary>Details</summary>
+    One of my strongest languages — 7 years of experience, using uv for the past 2. Built projects spanning APIs, backends, IoT, cloud computing, security, and scripting. Primary tools: FastAPI, requests, Jupyter, Pandas/Polars, scikit-learn.
+    </details>
 
 -   :fontawesome-brands-java:{ .lg .middle } __Java__
 
     ---
 
-    I'm familiar w/ **Java** since my 2nd year of post-secondary education.
+    Ability : 
     
-    I use Java w/ Spring on a daily basis w/ [CA-AS](https://www.credit-agricole.fr/particulier/assurances.html).
-    
-    I master most of [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)'s concepts.
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
 
--   :fontawesome-brands-js:{ .lg .middle } __JavaScript__
+    <details>
+    <summary>Details</summary>
+    4 years of experience. Initially reluctant, now one of my preferred languages. Deep knowledge of design patterns, dependency injection, garbage collection, threading, and robustness. Regular Spring Boot user (Actuator, Swagger, Security, JPA). One of my strongest languages alongside Python.
+    </details>
+
+-   :simple-javascript:{ .lg .middle } __Javascript__
 
     ---
 
-    I'm familiar w/ **JavaScript** since my 1st year of post-secondary education.
+    Ability : 
     
-    I'm not using JS as much as Python & Java but I still used it for projects [front-end](https://en.wikipedia.org/wiki/Front-end_web_development) projects like : [DevOps](https://mathieuaudibert.vercel.app/projects/#devops) & [BankWerk](https://mathieuaudibert.vercel.app/projects/#bankwerk)
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
 
--   :fontawesome-brands-php:{ .lg .middle } __PHP/Symfony__
+    <details>
+    <summary>Details</summary>
+    Used extensively at Efrei Panthéon Assas (JavaScript and Node.js), but haven't touched it in about a year. Not yet familiar with TypeScript.
+    </details>
+
+-   :simple-rust:{ .lg .middle } __Rust__
 
     ---
 
-    I'm familiar w/ **PHP** since my 2nd year of post-secondary education.
+    Ability : 
     
-    I was using PHP and Symfony on a daily basis when I was @ [CPAM94](https://lannuaire.service-public.gouv.fr/ile-de-france/val-de-marne/3ef62c8c-7157-4fd1-8547-ae9d21105082) wich I worked on [AAVA](https://mathieuaudibert.vercel.app/projects#aava).
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
 
-    I used PHP for [Audiora](https://mathieuaudibert.vercel.app/projects/#audiora).
+    <details>
+    <summary>Details</summary>
+    Started learning this year. Grasping the fundamentals and best practices. Find it compelling for its safety model, performance, and package manager (Cargo).
+    </details>
 
--   :simple-gnubash:{ .lg .middle } __Bash__
+-   :simple-php:{ .lg .middle } __PHP__
 
     ---
 
-    I'm familiar w/ **Bash** scripts since my 2nd year of post-secondary education.
-    I'm using bash on a daily basis w/ [CA-AS](https://www.credit-agricole.fr/particulier/assurances.html).
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Used daily for 3 consecutive years across school and work projects. Experienced with Symfony and Composer. Haven't used it recently and prefer not to return to it.
+    </details>
+
+-   :simple-kotlin:{ .lg .middle } __Kotlin__
+
+    ---
+     
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Started learning this year. Leveraging my Java background — still working on Kotlin-specific idioms like null safety. Appreciate how it reduces Java's verbosity while maintaining JVM compatibility.
+    </details>
 </div>
 
-## Miscellaneous
+---
 
-Here is the diverse tools I'm using daily :
-
-<div class="grid cards" markdown>
-
--   :simple-git:{ .lg .middle } __Git__
-
-    ---
-    
-    I mastered the concepts and I wrote doc for [CA-AS](https://www.credit-agricole.fr/particulier/assurances.html) internal formations.
-
--   :fontawesome-brands-jenkins:{ .lg .middle } __Jenkins__
-
-    ---
-
-    I'm using/fixing Jenkins during my [CA-AS](https://www.credit-agricole.fr/particulier/assurances.html) internship.
-
--   :fontawesome-brands-github:{ .lg .middle } __GitHub/GitLab__
-
-    ---
-
-    I'm familiar with both plateform's CI-CD tools wich I use in most of my projects
-
-    I'm using GitHub for most of my personal/academical projects ([Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [BlockChain](https://mathieuaudibert.vercel.app/projects/#blockchain), [TGW Reporting](https://mathieuaudibert.vercel.app/projects/#tgw-reporting), etc...).
-
-    I'm using/used GitLab daily in both my internships (w/ [AAVA](https://mathieuaudibert.vercel.app/projects/#aava)). 
-    
-    I also used it for an academical project : [DevOps](https://mathieuaudibert.vercel.app/projects#devops)
-</div>
-
-## Cloud
-
-Here is my experiences with the big 3 [cloud providers](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers) :
+### Cloud providers
+---
 
 <div class="grid cards" markdown>
 
 -   :fontawesome-brands-aws:{ .lg .middle } __AWS__
 
     ---
+
+    Ability : 
     
-    **AWS** is the cloud provider I used the most.
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
 
-    I have a cloud practitionner badge and [TGW Reporting](https://mathieuaudibert.vercel.app/projects/#tgw-reporting) is based off of AWS.
+    <details>
+    <summary>Details</summary>
+    3 years of active use. Strong command of core services, built robust applications across multiple languages. Still developing cost management expertise. Pursuing certification.
+    </details>
 
--   :fontawesome-brands-microsoft:{ .lg .middle } __Azure__
-
-    ---
-
-    Azure is my least favourite cloud provider. I used it on [DevOps](https://mathieuaudibert.vercel.app/projects/#devops)
-
--   :simple-googlecloud:{ .lg .middle } __GCP__
+-   :material-microsoft-azure:{ .lg .middle } __Microsoft Azure__
 
     ---
 
-    I'm currently learning a lot on **GCP** since I used it w/ firebase on a lot of my academical projects : [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [Audiora](https://mathieuaudibert.vercel.app/projects/#audiora) & [BankWerk](https://mathieuaudibert.vercel.app/projects/#bankwerk).
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
 
-    I'm also trying to get the [GCP Cloud engineer certification](https://cloud.google.com/learn/certification/cloud-engineer?hl=fr) wich will be usefull for my career.
+    <details>
+    <summary>Details</summary>
+    Limited experience. Found the developer experience frustrating compared to AWS and GCP — IAM complexity, slow interfaces. Using it primarily because of the free student credits.
+    </details>
+
+-   :material-google-cloud:{ .lg .middle } __GCP__
 
     ---
 
-    I'm currently learning a lot on **GCP** since I used it w/ firebase on a lot of my academical projects : [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [Audiora](https://mathieuaudibert.vercel.app/projects/#audiora) & [BankWerk](https://mathieuaudibert.vercel.app/projects/#bankwerk).
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
 
-    I'm also trying to get the [GCP Cloud engineer certification](https://cloud.google.com/learn/certification/cloud-engineer?hl=fr) wich will be usefull for my career.
+    <details>
+    <summary>Details</summary>
+    GCP and Firebase have been invaluable throughout my studies. Intuitive to use, Firebase's free tier is excellent. Some documentation gaps and BigQuery's lack of indexation are pain points, but overall a strong platform.
+    </details>
+
+-   :material-cloud-lock-outline:{ .lg .middle } __Self-hosted cloud__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Repurposed an old Dell laptop into an Ubuntu server with a friend — hosting databases and AI workloads. Learned server architecture, networking (WAN, VPN bridging, SSH). Much more to explore in terms of security, scalability, and replication.
+    </details>
+
 </div>
 
-## SQL/NoSQL
+---
 
-Here are the main SGBD I use(d) w/ both [SQL](https://en.wikipedia.org/wiki/SQL) & [NoSQL](https://en.wikipedia.org/wiki/NoSQL) :
+### DevOps
+---
 
 <div class="grid cards" markdown>
 
--   :simple-postgresql:{ .lg .middle } __SQL__
+-   :simple-git:{ .lg .middle } __Git__
 
     ---
+
+    Ability : 
     
-    I'm really familiar w/ SQL.
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
 
-    I used mostly PostgreSQL but I know Oracle & MySQL quite well.
+    <details>
+    <summary>Details</summary>
+    Mastered since my first year of higher education. Daily use of GitHub and GitLab. Have trained colleagues at Crédit Agricole Assurances on Git workflows.
+    </details>
 
-    Here are some projects where I used SQL : [DevOps](https://mathieuaudibert.vercel.app/projects/#devops), [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [AAVA](https://mathieuaudibert.vercel.app/projects/#aava)
-
--   :simple-mongodb:{ .lg .middle } __NoSQL__
+-   :simple-jenkins:{ .lg .middle } __Jenkins__
 
     ---
 
-    I'm also really familiar w/ NoSQL especially MongoDB wich I used during my internships.
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
 
-    Here is also projects where I used NoSQL : [Cooloc](https://mathieuaudibert.vercel.app/projects/#cooloc), [BankWerk](https://mathieuaudibert.vercel.app/projects#bankwerk) & [Audiora](https://mathieuaudibert.vercel.app/projects/#audiora).
+    <details>
+    <summary>Details</summary>
+    Learned at Crédit Agricole Assurances. Comfortable writing Groovy pipelines and understanding pipeline architecture. Not yet experienced with administration/configuration.
+    </details>
+
+-   :simple-githubactions:{ .lg .middle } __GitHub Actions__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    2 years of use. Mastered core concepts: workflow automation, matrix builds, container publishing, reusable workflows.
+    </details>
+
+-   :simple-gitlab:{ .lg .middle } __GitLab CI__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Same paradigm as GitHub Actions — YAML-driven pipelines. Used across school and enterprise projects.
+    </details>
+
+-   :simple-bruno:{ .lg .middle } __Bruno__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Replaced Postman entirely. Fast, clean, no login required, pre/post request scripts, credentials manager. My go-to API testing tool.
+    </details>
+
+-   :simple-sonarqubeserver:{ .lg .middle } __SonarQube__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Using since 2024 — IDE plugin, self-hosted server, and cloud solutions. Essential for enforcing clean code standards and quality gates.
+    </details>
+
+-   :simple-jfrog:{ .lg .middle } __Artifactory__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Discovered in 2026. Familiar with scratch repos, staging, and artifact security scans. Still exploring its full potential.
+    </details>
+
+-   :simple-kubernetes:{ .lg .middle } __K8S__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Discovered in 2026. Building on strong Docker foundations — working with manifests, deployments, and pod management. Paired with ArgoCD.
+    </details>
+
+-   :simple-argo:{ .lg .middle } __ArgoCD__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Discovered in 2026. Excellent tool for GitOps — makes Kubernetes management intuitive. My go-to for K8s deployment orchestration.
+    </details>
+
+-   :simple-docker:{ .lg .middle } __Docker__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Daily use since 2023. Containerization, docker-compose, multi-stage builds, custom images. Explored Podman briefly but Docker remains far ahead.
+    </details>
 </div>
+
+---
+
+### Databases
+---
+
+<div class="grid cards" markdown>
+
+-   :simple-mysql:{ .lg .middle } __MySQL__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Using SQL since 2022. MySQL is lightweight and excellent for rapid development, but lacks the extensibility of PostgreSQL for complex use cases.
+    </details>
+
+-   :simple-postgresql:{ .lg .middle } __PostgreSQL__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    My preferred RDBMS. Its extension ecosystem (PostGIS, pgVector) makes it versatile across domains. Industry leadership is well-deserved. Have used PostGIS and pgVector at an introductory level.
+    </details>
+
+-   :fontawesome-solid-database:{ .lg .middle } __Oracle__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Learned at ESILV in 2026. Set up on personal server — dealt with fstab configuration and multi-user access challenges. Pluggable databases are an interesting concept for enterprise scale.
+    </details>
+
+-   :simple-alibabacloud:{ .lg .middle } __Zilliz/Vector DBs__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Beginning to explore vector databases this year. Steep learning curve but essential for modern AI/embedding workloads.
+    </details>
+
+-   :simple-mongodb:{ .lg .middle } __MongoDB__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Proficient since 2024 through daily use. Strong grasp of core and advanced concepts — aggregation pipelines, disk usage optimization, document modeling patterns.
+    </details>
+
+-   :simple-neo4j:{ .lg .middle } __Neo4j__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Learned in 2026. Comfortable with Cypher queries and relationship-first modeling. Still deepening understanding of graph-specific optimization patterns.
+    </details>
+
+</div>
+
+---
+
+### AI
+---
+<div class="grid cards" markdown>
+
+-   :simple-googlegemini:{ .lg .middle } __Gemini (chat)__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Primary chat model since its release. Strong for writing and surface-level research. Best free-tier option available.
+    </details>
+
+-   :simple-claude:{ .lg .middle } __Claude (code)__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Using Claude since 2023, Claude Code since 2026 (via AWS Bedrock). Excellent for deep technical reasoning and code generation. Models are strong on complex subjects.
+    </details>
+
+-   :simple-githubcopilot:{ .lg .middle } __Copilot__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Disappointed with Copilot, Copilot CLI, and Copilot API. Model diversity is the main advantage, but the pricing changes (AI Credits) have reduced its value.
+    </details>
+
+-   :simple-deepseek:{ .lg .middle } __DeepSeek__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Running locally for experimentation. Strong on scientific subjects. Appreciate the open-source approach and public knowledge commitment.
+    </details>
+
+-   :simple-opencode:{ .lg .middle } __Opencode & Nova 2 lite__
+
+    ---
+
+    Ability : 
+    
+    :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-solid-star:{ .lg .middle } :fontawesome-regular-star:{ .lg .middle }
+
+    <details>
+    <summary>Details</summary>
+    Using for a few months. Clean interface, consistently accurate responses. Good for code generation, debugging, and concept exploration.
+    </details>
+
+</div>
+
+
+---
